@@ -1,2 +1,2 @@
-# Personal-Windows-11-Theming
-Personal Windows 11 productivity setup: High-performance themes and shell modifications for Discord, Flow Launcher, and more.
+# Personal Theming for Windows 11
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
